@@ -4,6 +4,9 @@ output: html_document
 ---
 
 ```
-Hi Dr. Redmond
+Here is some arithmatic:
+x<-3
+y<-4
+x-sqrt (y)
 ```
-
+## [1] 1
